@@ -1,0 +1,3 @@
+L:/Freshman_winter/C++/new12021_2_13/cmake-build-debug/CMakeFiles/new12021_2_13.dir
+L:/Freshman_winter/C++/new12021_2_13/cmake-build-debug/CMakeFiles/edit_cache.dir
+L:/Freshman_winter/C++/new12021_2_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
